@@ -1,0 +1,15 @@
+.test {
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-evenly;
+}
+.add{
+    flex: 0.5;
+    /* background-color: aqua; */
+    padding: 1%;
+}
+.show{
+    flex: 0.5;
+    background-color: rgba(0, 0, 0, 0.1);
+    padding: 1%;
+}
